@@ -1,5 +1,6 @@
 # CatPhotoApp
 Cat photo app for freecodecamp responsive web design path
+- original project link: https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app
 
 I learned most of the topics through the Odin Project and decided to do this project as extra practice. Additional things I learned about were section, figure, figurecaption, and form.
 Notes for next time:
